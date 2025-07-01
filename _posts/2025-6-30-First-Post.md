@@ -3,11 +3,11 @@ layout: post
 title: Goal Setting
 ---
 
-Hello! My name is Nia Perez. I am a rising senior at Norfolk State University. I am majoring in Computer Science. I currently live in Norfolk, Virginia, but I am originally from Dallas, Texas. 
+Hello! My name is Nia Perez. I’m a rising senior majoring in Computer Science at Norfolk State University. I currently live in Norfolk, Virginia, but I’m originally from Dallas, Texas.
 
-I don't have any open-source experience, but I am excited to learn. I think my strongest skill that I can bring to this team is my work-ethic, as I am not afraid to start from scratch if all else fails. A skill I would like to work on is my collaboration skills, as I am used to solo working environments. 
+While I’m new to open source, I’m excited to learn and grow. One of my strongest qualities is my work ethic. I am not afraid to start from scratch and keep pushing until I figure things out. I’m also hoping to improve my collaboration skills, since I’m used to working independently.
 
-I am also participating in the University of Santa Cruz Contributor Catalyst program. Keep up with our work [here.](https://github.com/emmet0r/contributor-catalyst)
+I’m currently part of the University of California, Santa Cruz Contributor Catalyst program. You can keep up with our work [here.](https://github.com/emmet0r/contributor-catalyst)
 
 ![_config.yml]({{ site.baseurl }}/images/typingcat.gif)
 
