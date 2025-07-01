@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hi, and welcome! I’m part of the Contributor Catalyst program at UCSC, where I’m exploring open source and community building. I’m a rising senior studying computer science at Norfolk State University. Through this blog, I’ll be sharing reflections on my journey as a contributor and lessons from hands-on projects. Glad you’re here!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:n.perez123893@spartans.nsu.edu)
