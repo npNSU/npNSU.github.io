@@ -11,4 +11,3 @@ I am also participating in the University of Santa Cruz Contributor Catalyst pro
 
 ![_config.yml]({{ site.baseurl }}/images/typingcat.gif)
 
-XOXO- Nia
