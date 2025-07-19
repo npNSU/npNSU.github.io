@@ -3,8 +3,6 @@ layout: post
 title: p5.js Project Evaluation
 ---
 
-<img src="{{ site.baseurl }}/images/piHangyodon.gif" alt="_config.yml" height="200">
-
 During our lab, we had the chance to dive into open-source projects to get a better sense of how different software communities work. One of the larger projects I explored was p5.js, a JavaScript library that helps people create interactive, and geometric art. p5.js is part of the Processing Foundation, an organization focused on promoting learning and exploration through code, particularly in artistic and creative spaces. What I really appreciate about the Foundation is that it’s not just about teaching people how to write software. It’s also about building a welcoming and inclusive environment where anyone can explore technology and creativity, no matter their experience level or background. 
 
 Currently, the project has 678 contributors and over 24,000 users. In just the last 30 days, there have been 15 active contributors and 71 commits, which shows that the project is actively maintained and highlights the benefits with a larger community. On GitHub, new issues are opened regularly, sometimes even multiple times an hour. This high level of engagement highlights how responsive and dedicated the developer community is when it comes to maintaining and improving the library.
