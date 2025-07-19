@@ -2,4 +2,4 @@
 layout: post
 title: First Steps into Contribution
 ---
-![_config.yml]({{ site.baseurl }}/images/hangyodon-sanrio.gif)
+<img src="{{ site.baseurl }}/images/hangyodon-sanrio.gif" alt="_config.yml" height="200">
