@@ -3,7 +3,7 @@ layout: post
 title: p5.js Project Evaluation
 ---
 
-![_config.yml]({{ site.baseurl }}/images/piHangyodon.gif)
+<img src="{{ site.baseurl }}/images/piHangyodon.gif" alt="_config.yml" height="200">
 
 During our lab, we had the chance to dive into open-source projects to get a better sense of how different software communities work. One of the larger projects I explored was p5.js, a JavaScript library that helps people create interactive, and geometric art. p5.js is part of the Processing Foundation, an organization focused on promoting learning and exploration through code, particularly in artistic and creative spaces. What I really appreciate about the Foundation is that it’s not just about teaching people how to write software. It’s also about building a welcoming and inclusive environment where anyone can explore technology and creativity, no matter their experience level or background. 
 
