@@ -3,7 +3,7 @@ layout: post
 title: Motivation :)
 ---
 
-![_config.yml]({{ site.baseurl }}/images/sillyHangyodon.gif)
+<img src="{{ site.baseurl }}/images/sillyHangyodon.gif" alt="_config.yml" height="200">
 
 One challenge I would like to tackle with technology would be education inequality. Specifically, improving access to quality learning opportunities for all students. When I am successful, the first person I would tell about it would be my mom, as she is a major source of motivation and support for me. 
 
