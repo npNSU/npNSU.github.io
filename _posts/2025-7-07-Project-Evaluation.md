@@ -3,6 +3,8 @@ layout: post
 title: OpenSSF Project Evaluation
 ---
 
+![_config.yml]({{ site.baseurl }}/images/digiHangyodon.gif)
+
 During our lab, we spent time exploring both large and small open-source projects to get a feel for how different communities work. One of the smaller projects I looked into was OpenSSF Scorecard. This tool is part of the Open Source Security Foundation and its main goal is to help users quickly figure out whether an open-source project is secure. It does that by running automated checks and giving the project a security “score.” That score is based on how well the project follows best practices, like keeping dependencies up to date or protecting important branches.
 
 There are about 170 contributors listed on the GitHub page, but only a handful have been active in the past month. In the last 30 days, there were just four contributors and 15 commits. That told me the project is still being maintained, but not as actively as larger ones like p5.js. Some issues have gone unanswered for a while and are even marked “stale,” which can be discouraging if you are trying to contribute something new.
