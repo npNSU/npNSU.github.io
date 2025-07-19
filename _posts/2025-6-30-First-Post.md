@@ -3,7 +3,7 @@ layout: post
 title: Goal Setting
 ---
 
-![_config.yml]({{ site.baseurl }}/images/typingcat.gif)
+<img src="{{ site.baseurl }}/images/typingcat.gif" alt="_config.yml" height="200">
 
 Hello! My name is Nia Perez. I’m a rising senior majoring in Computer Science at Norfolk State University. I currently live in Norfolk, Virginia, but I’m originally from Dallas, Texas.
 
