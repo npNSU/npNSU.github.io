@@ -3,7 +3,7 @@ layout: post
 title: OpenSSF Project Evaluation
 ---
 
-![_config.yml]({{ site.baseurl }}/images/digiHangyodon.gif)
+<img src="{{ site.baseurl }}/images/digiHangyodon.gif" alt="_config.yml" height="200">
 
 During our lab, we spent time exploring both large and small open-source projects to get a feel for how different communities work. One of the smaller projects I looked into was OpenSSF Scorecard. This tool is part of the Open Source Security Foundation and its main goal is to help users quickly figure out whether an open-source project is secure. It does that by running automated checks and giving the project a security “score.” That score is based on how well the project follows best practices, like keeping dependencies up to date or protecting important branches.
 
